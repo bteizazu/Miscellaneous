@@ -3,9 +3,7 @@ from itertools import permutations
 numbers = [1,4,2,8,57]
 
 
-104+8*5-6/3
-104*8+5-6/3
-104*8/5-6+3
+
 def operate(operand1, operand2, operator):
     if operator == 'A':
       return(operand1 + operand2)
